@@ -7,8 +7,4 @@ How to play:
 
 ---
 
-This is a work in progress!
-
-TODO:
-* Running timer, in title?
-* Display best time and current time when you lose
+This is a work in progress 💥
