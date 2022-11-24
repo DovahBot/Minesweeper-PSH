@@ -1,7 +1,9 @@
-# Minesweeper-PSH
-Minesweeper written in Powershell
+<img src="Minesweeper-PSH_icon.png" align="right" />
 
-How to play:
+# Minesweeper-PSH
+> Minesweeper written in Powershell
+
+## How to play:
 * Left click to dig
 * Right click to flag tile as a bomb
 
